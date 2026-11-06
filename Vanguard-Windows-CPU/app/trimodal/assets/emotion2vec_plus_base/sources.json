@@ -1,0 +1,41 @@
+{
+  "repository": "emotion2vec/emotion2vec_plus_base",
+  "revision": "b318240bfe67db81a8c572ecb37ce9c3759b81c9",
+  "files": [
+    {
+      "file": "config.yaml",
+      "url": "https://huggingface.co/emotion2vec/emotion2vec_plus_base/resolve/b318240bfe67db81a8c572ecb37ce9c3759b81c9/config.yaml",
+      "sha256": "50674ec187406b4f1208925594ceaf1f28f16a22333b5f2ac5b3d0cbffdd670e",
+      "bytes": 3170
+    },
+    {
+      "file": "configuration.json",
+      "url": "https://huggingface.co/emotion2vec/emotion2vec_plus_base/resolve/b318240bfe67db81a8c572ecb37ce9c3759b81c9/configuration.json",
+      "sha256": "8b6a745213025c7d4565f9f074cfef1b5cd5ef76e38e2a8f7f8a3db271e735b2",
+      "bytes": 343
+    },
+    {
+      "file": "tokens.txt",
+      "url": "https://huggingface.co/emotion2vec/emotion2vec_plus_base/resolve/b318240bfe67db81a8c572ecb37ce9c3759b81c9/tokens.txt",
+      "sha256": "866121e470057b847d7a50e9923509141fb2924392f53385a186482a1ec0fb7f",
+      "bytes": 119
+    },
+    {
+      "file": "README.md",
+      "url": "https://huggingface.co/emotion2vec/emotion2vec_plus_base/resolve/b318240bfe67db81a8c572ecb37ce9c3759b81c9/README.md",
+      "sha256": "b65c0bfa01bd991e255fa1ae7203c345f907d68eab90b1bf3482367d808e8274",
+      "bytes": 5749
+    },
+    {
+      "file": "model.pt",
+      "url": "https://huggingface.co/emotion2vec/emotion2vec_plus_base/resolve/b318240bfe67db81a8c572ecb37ce9c3759b81c9/model.pt",
+      "sha256": "60710b5aae1dbe69bdac8920028fb05882d4314fd09031922b4b61ee9e7aadbd",
+      "bytes": 1118245678
+    },
+    {
+      "file": "MODEL_LICENSE",
+      "url": "https://raw.githubusercontent.com/modelscope/FunASR/main/MODEL_LICENSE",
+      "sha256": "7dba975a2069691db4992b0592d70828b330d2f8a30a71450f4e152a554e84f8"
+    }
+  ]
+}

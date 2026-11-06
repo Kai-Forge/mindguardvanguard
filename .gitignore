@@ -1,0 +1,6 @@
+/*.zip
+/*.zip.sha256
+/.upload_key
+/.upload_key.pub
+/upload_portable_release.py
+/.upload_key_rsa*

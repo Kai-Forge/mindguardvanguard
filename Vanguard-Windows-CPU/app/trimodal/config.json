@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "weights": {
+    "image": 1.0,
+    "speech": 1.0,
+    "egg": 1.0
+  },
+  "speech_backend": "emotion2vec_plus_base",
+  "egg_checkpoint": "trimodal/assets/egg_best.pt",
+  "face_detector": "trimodal/assets/yunet.onnx",
+  "expression_model": "trimodal/assets/expression.onnx",
+  "surprise_policy": "exclude_and_renormalize"
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "aliyun-python-sdk-core",
+    "version": "2.16.1"
+  },
+  {
+    "name": "aliyun-python-sdk-kms",
+    "version": "2.16.5"
+  },
+  {
+    "name": "annotated-doc",
+    "version": "0.0.5"
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.8.0"
+  },
+  {
+    "name": "antlr4-python3-runtime",
+    "version": "4.9.3"
+  },
+  {
+    "name": "anyio",
+    "version": "4.15.1"
+  },
+  {
+    "name": "audioop-lts",
+    "version": "0.2.2"
+  },
+  {
+    "name": "audioread",
+    "version": "3.1.0"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.5.20"
+  },
+  {
+    "name": "cffi",
+    "version": "2.0.0"
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.4.7"
+  },
+  {
+    "name": "click",
+    "version": "8.5.0"
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6"
+  },
+  {
+    "name": "crcmod",
+    "version": "1.7"
+  },
+  {
+    "name": "cryptography",
+    "version": "44.0.1"
+  },
+  {
+    "name": "decorator",
+    "version": "5.3.1"
+  },
+  {
+    "name": "fastapi",
+    "version": "0.162.0"
+  },
+  {
+    "name": "filelock",
+    "version": "3.29.0"
+  },
+  {
+    "name": "fsspec",
+    "version": "2026.4.0"
+  },
+  {
+    "name": "funasr",
+    "version": "1.4.17"
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0"
+  },
+  {
+    "name": "huggingface-hub",
+    "version": "0.36.2"
+  },
+  {
+    "name": "hydra-core",
+    "version": "1.3.8"
+  },
+  {
+    "name": "idna",
+    "version": "3.20"
+  },
+  {
+    "name": "jaconv",
+    "version": "0.5.0"
+  },
+  {
+    "name": "jamo",
+    "version": "0.4.1"
+  },
+  {
+    "name": "jieba",
+    "version": "0.42.1"
+  },
+  {
+    "name": "jinja2",
+    "version": "3.1.6"
+  },
+  {
+    "name": "jmespath",
+    "version": "1.1.0"
+  },
+  {
+    "name": "joblib",
+    "version": "1.5.3"
+  },
+  {
+    "name": "kaldiio",
+    "version": "2.18.1"
+  },
+  {
+    "name": "lazy-loader",
+    "version": "0.5"
+  },
+  {
+    "name": "librosa",
+    "version": "0.11.0"
+  },
+  {
+    "name": "llvmlite",
+    "version": "0.47.0"
+  },
+  {
+    "name": "markupsafe",
+    "version": "3.0.3"
+  },
+  {
+    "name": "modelscope",
+    "version": "1.37.1"
+  },
+  {
+    "name": "mpmath",
+    "version": "1.3.0"
+  },
+  {
+    "name": "msgpack",
+    "version": "1.1.2"
+  },
+  {
+    "name": "networkx",
+    "version": "3.6.1"
+  },
+  {
+    "name": "numba",
+    "version": "0.65.1"
+  },
+  {
+    "name": "numpy",
+    "version": "2.4.6"
+  },
+  {
+    "name": "omegaconf",
+    "version": "2.3.1"
+  },
+  {
+    "name": "opencv-python-headless",
+    "version": "4.11.0.86"
+  },
+  {
+    "name": "opentelemetry-api",
+    "version": "1.45.2"
+  },
+  {
+    "name": "oss2",
+    "version": "2.19.1"
+  },
+  {
+    "name": "packaging",
+    "version": "26.2"
+  },
+  {
+    "name": "platformdirs",
+    "version": "4.10.0"
+  },
+  {
+    "name": "pooch",
+    "version": "1.9.0"
+  },
+  {
+    "name": "protobuf",
+    "version": "7.35.0"
+  },
+  {
+    "name": "pycparser",
+    "version": "3.0"
+  },
+  {
+    "name": "pycryptodome",
+    "version": "4.2.0"
+  },
+  {
+    "name": "pydantic",
+    "version": "2.14.2"
+  },
+  {
+    "name": "pydantic-core",
+    "version": "2.50.2"
+  },
+  {
+    "name": "pynndescent",
+    "version": "0.7.0"
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.32"
+  },
+  {
+    "name": "pyyaml",
+    "version": "6.0.3"
+  },
+  {
+    "name": "rapidfuzz",
+    "version": "3.14.6"
+  },
+  {
+    "name": "regex",
+    "version": "2026.9.10"
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2"
+  },
+  {
+    "name": "safetensors",
+    "version": "0.8.0"
+  },
+  {
+    "name": "scikit-learn",
+    "version": "1.8.0"
+  },
+  {
+    "name": "scipy",
+    "version": "1.17.1"
+  },
+  {
+    "name": "sentencepiece",
+    "version": "0.2.2"
+  },
+  {
+    "name": "setuptools",
+    "version": "81.0.0"
+  },
+  {
+    "name": "six",
+    "version": "1.17.0"
+  },
+  {
+    "name": "soundfile",
+    "version": "0.13.1"
+  },
+  {
+    "name": "soxr",
+    "version": "1.1.0"
+  },
+  {
+    "name": "standard-aifc",
+    "version": "3.13.0"
+  },
+  {
+    "name": "standard-chunk",
+    "version": "3.13.0"
+  },
+  {
+    "name": "standard-sunau",
+    "version": "3.13.0"
+  },
+  {
+    "name": "starlette",
+    "version": "1.10.0"
+  },
+  {
+    "name": "sympy",
+    "version": "1.13.1"
+  },
+  {
+    "name": "tensorboardx",
+    "version": "2.6.5"
+  },
+  {
+    "name": "threadpoolctl",
+    "version": "3.6.0"
+  },
+  {
+    "name": "tiktoken",
+    "version": "0.14.0"
+  },
+  {
+    "name": "tokenizers",
+    "version": "0.22.2"
+  },
+  {
+    "name": "torch-complex",
+    "version": "0.4.4"
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.1"
+  },
+  {
+    "name": "transformers",
+    "version": "4.57.6"
+  },
+  {
+    "name": "typing-extensions",
+    "version": "4.16.0"
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4"
+  },
+  {
+    "name": "umap-learn",
+    "version": "0.5.12"
+  },
+  {
+    "name": "urllib3",
+    "version": "2.7.0"
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.54.0"
+  },
+  {
+    "name": "websockets",
+    "version": "16.0"
+  },
+  {
+    "name": "torch",
+    "version": "2.6.0+cpu",
+    "wheel_sha256": "b436a6c62d086dc5b32f5721b59f0ca8ad3bf9de09ee9b5b83dbf1e7a7e22c60"
+  },
+  {
+    "name": "torchaudio",
+    "version": "2.6.0+cpu",
+    "wheel_sha256": "217fa2490e2aa7a2d2e025ca53561ca65572d1f5a876011e5fdc5ce573edbd9c"
+  }
+]
